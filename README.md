@@ -25,6 +25,6 @@ Olá Sr. Cliente
 Eu vi aqui que o seu relatório está quase pronto e como a nossa prioridade é a qualidade das funcionalidades, estamos com toda a nossa equipe direcionada para resolver o seu requerimento. Ao mesmo tempo encaminhamos um colaborador que irá realizar o update para modernizar e inovar as funcionalidades do seu sistema, economizando mais tempo e introduzindo mais segurança para o futuro dos seus negócios. 
 Sobre o nosso prazo, temos total convicção que em até 2 semanas enviaremos diretamente ao Sr. o relatório solicitado. 
 A pandemia de coronavírus trouxe grandes transtornos para todas as atividades, por isso, estamos analisando alternativas para diminuir os prazos e flexibilizar a entrega. Ficamos à sua disposição para quaisquer esclarecimentos.
-Cordialmente,
-Lucas Fernando Cabral Zeferino - 
+Atenciosamente,
+Lucas Fernando Cabral Zeferino 
 Técnico de Suporte - Senior Sistemas
