@@ -14,7 +14,7 @@ Encontra-se no arquivo seniorsistemas.csv
 
 Sugiro como primeiro índice: ID_DOCUMENTO pois ele servirá como indexador de todos itens adicionados a venda atual.
 
-Sugiro como segundo índice: ID_PRODUTO pois ele servirá como indexador do total de vendas confirmadas.
+Sugiro como segundo índice: ID_PRODUTO pois ele servirá como indexador do total de vendas confirmadas(total vendido).
 
 # 5 Organização: Todos estes passos devem estar no repositório do github e instruções no readme.md do mesmo.
 
